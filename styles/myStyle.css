@@ -1,0 +1,72 @@
+body {
+    direction: rtl;
+    background-image: url(../jScripts/watermark27-1.jpg);
+}
+
+#container {
+    margin: 0 auto;
+    width:960px;
+}
+
+.study {
+    font-family: Arial;
+    font-size: 30px;
+    color: black;
+    text-align:center;
+    font-weight: bold;
+}
+
+.image{
+    float:left;
+    height:150px;
+    width:300px;
+    
+}
+.story{
+    font-family: Arial;
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+} 
+
+.hit {
+    font-family: Arial;
+    font-size: 16px;
+    color: blue;
+}
+
+}
+
+.facebook {
+    font-family: Arial;
+    font-size: 16px;
+    color: blue;
+}
+
+#radio {
+    font-family: Arial;
+    font-size: 16px;
+    color: black;
+    float: left;
+}
+
+#DEE {
+    font-family: Arial;
+    font-size: 16px;
+    color: black;
+}
+
+#name {
+    font-family: Arial;
+    font-size: 16px;
+    color: black;
+}
+
+#V {
+    font-size: 16px;
+    font-family: Arial;
+    color: black;
+    font-weight: bold;
+    list-style-image:url('../jScripts/V.PNG');
+}
+
